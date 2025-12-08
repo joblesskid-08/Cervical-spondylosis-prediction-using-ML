@@ -1,0 +1,1 @@
+# Cervical-spondylosis-prediction-using-ML
