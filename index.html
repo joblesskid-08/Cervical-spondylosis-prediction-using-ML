@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cervical Spondylosis Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .prediction {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 18px;
+            color: #333;
+        }
+        .clear-button {
+            background-color: #dc3545;
+            margin-top: 10px;
+        }
+        .clear-button:hover {
+            background-color: #c82333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cervical Spondylosis Prediction</h1>
+        <form action="/predict" method="POST">
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" value="{{ age }}" required>
+            
+            <label for="neck_pain">Neck Pain (0 = No, 1 = Yes):</label>
+            <input type="number" id="neck_pain" name="neck_pain" value="{{ neck_pain }}" min="0" max="1" required>
+            
+            <label for="stiffness">Stiffness (0 = No, 1 = Yes):</label>
+            <input type="number" id="stiffness" name="stiffness" value="{{ stiffness }}" min="0" max="1" required>
+            
+            <label for="numbness">Numbness in Arms (0 = No, 1 = Yes):</label>
+            <input type="number" id="numbness" name="numbness" value="{{ numbness }}" min="0" max="1" required>
+            
+            <label for="headache">Headache (0 = No, 1 = Yes):</label>
+            <input type="number" id="headache" name="headache" value="{{ headache }}" min="0" max="1" required>
+            
+            <label for="sitting_hours">Occupation Hours Sitting:</label>
+            <input type="number" id="sitting_hours" name="sitting_hours" value="{{ sitting_hours }}" required>
+            
+            <button type="submit">Predict</button>
+        </form>
+        
+        <!-- Clear Form Button -->
+        <button class="clear-button" onclick="clearForm()">Make Another Prediction</button>
+        
+        {% if prediction_text %}
+        <div class="prediction">
+            {{ prediction_text }}
+        </div>
+        {% endif %}
+    </div>
+
+    <script>
+        // Function to clear the form
+        function clearForm() {
+            document.querySelector('form').reset();
+            document.querySelector('.prediction').innerText = '';
+        }
+    </script>
+</body>
+</html>

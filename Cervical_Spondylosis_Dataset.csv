@@ -1,0 +1,501 @@
+Patient ID,Gender,Age,Symptoms,Diagnosis,Imaging Findings,Treatment Recommended,Outcome
+1,Male,40,Stiffness,Negative,Normal,Physical Therapy,0
+2,Female,51,Numbness,Negative,Abnormal,Physical Therapy,0
+3,Male,42,Numbness,Negative,Abnormal,Physical Therapy,0
+4,Male,52,Neck Pain,Negative,Normal,Physical Therapy,0
+5,Male,22,Neck Pain,Positive,Normal,Surgery,0
+6,Female,37,Neck Pain,Positive,Abnormal,Physical Therapy,1
+7,Male,44,Stiffness,Positive,Normal,Surgery,1
+8,Male,61,Neck Pain,Positive,Normal,Physical Therapy,1
+9,Male,50,Numbness,Negative,Normal,Physical Therapy,0
+10,Female,73,Numbness,Positive,Abnormal,Surgery,1
+11,Male,77,Neck Pain,Positive,Abnormal,Physical Therapy,1
+12,Male,22,Neck Pain,Negative,Normal,Surgery,1
+13,Male,59,Numbness,Negative,Abnormal,Surgery,1
+14,Male,65,Stiffness,Negative,Normal,Physical Therapy,1
+15,Female,43,Neck Pain,Negative,Abnormal,Surgery,0
+16,Male,69,Neck Pain,Positive,Normal,Surgery,0
+17,Female,51,Numbness,Positive,Normal,Surgery,1
+18,Female,66,Neck Pain,Negative,Abnormal,Surgery,1
+19,Female,41,Stiffness,Positive,Normal,Surgery,1
+20,Male,42,Numbness,Positive,Abnormal,Surgery,0
+21,Female,21,Neck Pain,Positive,Abnormal,Surgery,0
+22,Male,46,Numbness,Negative,Normal,Surgery,1
+23,Female,61,Neck Pain,Positive,Normal,Physical Therapy,0
+24,Female,21,Neck Pain,Negative,Abnormal,Physical Therapy,0
+25,Female,45,Neck Pain,Positive,Normal,Surgery,1
+26,Female,36,Stiffness,Positive,Normal,Physical Therapy,0
+27,Female,59,Stiffness,Positive,Normal,Surgery,0
+28,Female,52,Numbness,Negative,Normal,Surgery,1
+29,Female,28,Neck Pain,Positive,Normal,Physical Therapy,0
+30,Female,62,Neck Pain,Negative,Abnormal,Surgery,0
+31,Male,73,Stiffness,Negative,Abnormal,Surgery,1
+32,Male,67,Neck Pain,Negative,Normal,Surgery,0
+33,Female,58,Stiffness,Positive,Normal,Surgery,0
+34,Female,48,Neck Pain,Positive,Normal,Physical Therapy,1
+35,Female,61,Numbness,Positive,Abnormal,Surgery,1
+36,Male,74,Neck Pain,Positive,Normal,Surgery,1
+37,Female,45,Neck Pain,Negative,Abnormal,Surgery,0
+38,Male,54,Stiffness,Negative,Abnormal,Physical Therapy,1
+39,Male,69,Neck Pain,Negative,Abnormal,Surgery,0
+40,Male,44,Neck Pain,Positive,Normal,Physical Therapy,1
+41,Male,43,Stiffness,Negative,Abnormal,Physical Therapy,0
+42,Male,32,Numbness,Positive,Normal,Surgery,1
+43,Female,79,Numbness,Negative,Abnormal,Surgery,1
+44,Female,77,Stiffness,Positive,Normal,Physical Therapy,1
+45,Female,26,Stiffness,Positive,Abnormal,Surgery,1
+46,Female,76,Stiffness,Negative,Normal,Physical Therapy,0
+47,Female,55,Stiffness,Negative,Abnormal,Physical Therapy,1
+48,Male,64,Stiffness,Negative,Normal,Surgery,1
+49,Female,39,Numbness,Negative,Normal,Surgery,0
+50,Female,20,Numbness,Positive,Normal,Physical Therapy,1
+51,Male,27,Stiffness,Negative,Normal,Physical Therapy,0
+52,Female,65,Neck Pain,Negative,Abnormal,Physical Therapy,1
+53,Male,35,Stiffness,Negative,Abnormal,Physical Therapy,1
+54,Female,33,Neck Pain,Positive,Normal,Surgery,1
+55,Male,31,Stiffness,Positive,Abnormal,Surgery,0
+56,Female,70,Stiffness,Negative,Normal,Surgery,1
+57,Female,42,Numbness,Positive,Normal,Surgery,1
+58,Male,34,Neck Pain,Negative,Abnormal,Surgery,1
+59,Male,47,Neck Pain,Positive,Normal,Physical Therapy,0
+60,Male,53,Numbness,Positive,Normal,Surgery,0
+61,Male,21,Numbness,Positive,Abnormal,Surgery,1
+62,Male,51,Numbness,Positive,Normal,Surgery,0
+63,Male,42,Numbness,Negative,Normal,Surgery,1
+64,Male,41,Neck Pain,Negative,Normal,Surgery,1
+65,Male,70,Neck Pain,Negative,Normal,Physical Therapy,1
+66,Female,44,Stiffness,Positive,Abnormal,Physical Therapy,1
+67,Female,77,Stiffness,Negative,Abnormal,Physical Therapy,1
+68,Male,41,Numbness,Negative,Abnormal,Surgery,1
+69,Female,77,Numbness,Negative,Normal,Physical Therapy,1
+70,Female,77,Numbness,Positive,Normal,Physical Therapy,0
+71,Female,41,Stiffness,Positive,Abnormal,Surgery,0
+72,Female,68,Stiffness,Positive,Normal,Surgery,0
+73,Male,71,Stiffness,Negative,Normal,Surgery,0
+74,Female,61,Stiffness,Negative,Normal,Physical Therapy,0
+75,Male,25,Stiffness,Negative,Normal,Physical Therapy,0
+76,Female,34,Stiffness,Positive,Abnormal,Surgery,0
+77,Female,73,Stiffness,Positive,Abnormal,Surgery,1
+78,Female,62,Numbness,Negative,Abnormal,Physical Therapy,1
+79,Male,79,Numbness,Positive,Normal,Physical Therapy,1
+80,Female,56,Numbness,Positive,Abnormal,Surgery,1
+81,Male,52,Numbness,Positive,Abnormal,Surgery,0
+82,Female,27,Stiffness,Positive,Normal,Physical Therapy,0
+83,Male,72,Neck Pain,Negative,Normal,Surgery,1
+84,Female,79,Stiffness,Positive,Abnormal,Physical Therapy,1
+85,Male,63,Neck Pain,Positive,Abnormal,Physical Therapy,0
+86,Male,63,Numbness,Positive,Abnormal,Physical Therapy,1
+87,Female,24,Stiffness,Positive,Abnormal,Physical Therapy,1
+88,Male,58,Numbness,Negative,Normal,Surgery,1
+89,Female,23,Stiffness,Negative,Abnormal,Surgery,1
+90,Female,25,Numbness,Positive,Abnormal,Physical Therapy,0
+91,Female,64,Neck Pain,Positive,Normal,Physical Therapy,1
+92,Female,51,Neck Pain,Positive,Abnormal,Physical Therapy,1
+93,Female,71,Neck Pain,Positive,Normal,Physical Therapy,0
+94,Female,49,Stiffness,Positive,Normal,Physical Therapy,0
+95,Female,66,Neck Pain,Positive,Normal,Surgery,1
+96,Female,54,Stiffness,Negative,Abnormal,Surgery,0
+97,Female,74,Neck Pain,Positive,Abnormal,Surgery,1
+98,Female,59,Neck Pain,Negative,Normal,Surgery,1
+99,Female,71,Stiffness,Negative,Abnormal,Physical Therapy,0
+100,Male,35,Stiffness,Positive,Abnormal,Physical Therapy,1
+101,Male,32,Neck Pain,Negative,Normal,Physical Therapy,1
+102,Female,69,Stiffness,Negative,Normal,Physical Therapy,1
+103,Female,79,Neck Pain,Negative,Abnormal,Physical Therapy,1
+104,Female,61,Stiffness,Negative,Normal,Surgery,0
+105,Female,49,Numbness,Negative,Abnormal,Physical Therapy,0
+106,Female,38,Numbness,Negative,Abnormal,Surgery,1
+107,Female,36,Numbness,Positive,Abnormal,Surgery,0
+108,Female,75,Numbness,Negative,Abnormal,Surgery,1
+109,Female,38,Numbness,Negative,Normal,Surgery,1
+110,Male,47,Neck Pain,Negative,Normal,Physical Therapy,1
+111,Female,77,Numbness,Positive,Normal,Surgery,1
+112,Male,74,Numbness,Negative,Normal,Surgery,1
+113,Female,45,Numbness,Positive,Abnormal,Surgery,0
+114,Female,56,Numbness,Negative,Abnormal,Physical Therapy,1
+115,Male,45,Stiffness,Positive,Normal,Physical Therapy,0
+116,Female,72,Neck Pain,Positive,Abnormal,Physical Therapy,0
+117,Male,42,Numbness,Negative,Abnormal,Surgery,1
+118,Female,28,Numbness,Negative,Abnormal,Surgery,1
+119,Female,31,Numbness,Positive,Normal,Physical Therapy,1
+120,Male,72,Neck Pain,Negative,Normal,Surgery,1
+121,Female,20,Stiffness,Positive,Normal,Physical Therapy,1
+122,Male,77,Neck Pain,Positive,Abnormal,Physical Therapy,0
+123,Female,77,Stiffness,Positive,Normal,Surgery,1
+124,Male,20,Numbness,Positive,Normal,Surgery,1
+125,Male,66,Numbness,Positive,Normal,Surgery,0
+126,Female,53,Neck Pain,Negative,Normal,Surgery,0
+127,Female,51,Neck Pain,Positive,Normal,Physical Therapy,1
+128,Male,73,Stiffness,Positive,Normal,Physical Therapy,0
+129,Female,67,Stiffness,Negative,Abnormal,Physical Therapy,1
+130,Female,44,Neck Pain,Positive,Abnormal,Physical Therapy,0
+131,Female,59,Stiffness,Negative,Normal,Physical Therapy,0
+132,Male,64,Neck Pain,Negative,Normal,Surgery,1
+133,Male,72,Stiffness,Negative,Abnormal,Physical Therapy,0
+134,Male,20,Neck Pain,Positive,Abnormal,Physical Therapy,0
+135,Male,35,Neck Pain,Positive,Normal,Physical Therapy,0
+136,Male,58,Neck Pain,Positive,Normal,Surgery,0
+137,Male,24,Stiffness,Negative,Normal,Surgery,0
+138,Male,41,Stiffness,Positive,Normal,Surgery,0
+139,Male,48,Stiffness,Negative,Abnormal,Surgery,1
+140,Male,74,Neck Pain,Positive,Normal,Physical Therapy,1
+141,Female,22,Stiffness,Negative,Normal,Physical Therapy,0
+142,Male,31,Stiffness,Positive,Normal,Surgery,1
+143,Female,45,Neck Pain,Positive,Normal,Surgery,1
+144,Female,35,Numbness,Positive,Abnormal,Physical Therapy,1
+145,Female,70,Neck Pain,Negative,Abnormal,Physical Therapy,0
+146,Male,56,Stiffness,Negative,Abnormal,Surgery,1
+147,Male,41,Neck Pain,Positive,Normal,Surgery,0
+148,Male,76,Numbness,Positive,Normal,Surgery,1
+149,Male,48,Neck Pain,Negative,Abnormal,Surgery,0
+150,Female,33,Stiffness,Negative,Normal,Physical Therapy,0
+151,Male,47,Numbness,Negative,Normal,Physical Therapy,1
+152,Male,24,Stiffness,Positive,Abnormal,Physical Therapy,1
+153,Male,66,Numbness,Negative,Abnormal,Surgery,0
+154,Male,68,Numbness,Positive,Abnormal,Surgery,1
+155,Male,49,Neck Pain,Negative,Abnormal,Physical Therapy,1
+156,Female,65,Neck Pain,Positive,Normal,Physical Therapy,1
+157,Male,71,Stiffness,Negative,Normal,Physical Therapy,0
+158,Female,24,Neck Pain,Negative,Abnormal,Physical Therapy,0
+159,Male,31,Neck Pain,Negative,Normal,Surgery,1
+160,Female,35,Numbness,Negative,Abnormal,Physical Therapy,1
+161,Male,45,Neck Pain,Negative,Abnormal,Physical Therapy,1
+162,Male,45,Numbness,Positive,Normal,Physical Therapy,0
+163,Female,67,Numbness,Negative,Abnormal,Physical Therapy,0
+164,Female,40,Numbness,Negative,Normal,Physical Therapy,1
+165,Female,58,Stiffness,Negative,Normal,Physical Therapy,1
+166,Male,55,Stiffness,Positive,Normal,Physical Therapy,1
+167,Female,52,Stiffness,Negative,Normal,Surgery,1
+168,Male,49,Numbness,Positive,Abnormal,Surgery,1
+169,Male,56,Stiffness,Negative,Normal,Surgery,1
+170,Female,42,Stiffness,Negative,Abnormal,Surgery,0
+171,Female,77,Neck Pain,Positive,Abnormal,Physical Therapy,1
+172,Male,29,Stiffness,Negative,Abnormal,Surgery,0
+173,Male,73,Stiffness,Positive,Abnormal,Surgery,1
+174,Female,24,Numbness,Positive,Normal,Physical Therapy,1
+175,Female,55,Numbness,Negative,Normal,Physical Therapy,0
+176,Female,53,Numbness,Positive,Abnormal,Surgery,0
+177,Male,71,Numbness,Negative,Abnormal,Surgery,0
+178,Male,50,Numbness,Negative,Normal,Physical Therapy,0
+179,Male,29,Numbness,Positive,Abnormal,Surgery,1
+180,Male,77,Stiffness,Positive,Normal,Physical Therapy,0
+181,Male,38,Numbness,Positive,Abnormal,Physical Therapy,1
+182,Male,77,Numbness,Positive,Normal,Physical Therapy,0
+183,Female,51,Neck Pain,Negative,Abnormal,Physical Therapy,1
+184,Male,20,Stiffness,Negative,Abnormal,Surgery,1
+185,Male,75,Stiffness,Positive,Normal,Physical Therapy,1
+186,Male,24,Stiffness,Negative,Abnormal,Physical Therapy,1
+187,Female,64,Numbness,Negative,Abnormal,Surgery,1
+188,Male,23,Numbness,Negative,Normal,Physical Therapy,1
+189,Male,35,Numbness,Negative,Abnormal,Surgery,0
+190,Female,43,Neck Pain,Positive,Normal,Surgery,1
+191,Male,35,Numbness,Positive,Normal,Surgery,0
+192,Male,74,Neck Pain,Negative,Abnormal,Physical Therapy,0
+193,Male,21,Stiffness,Positive,Abnormal,Surgery,1
+194,Male,68,Numbness,Positive,Abnormal,Surgery,0
+195,Male,47,Neck Pain,Positive,Abnormal,Physical Therapy,1
+196,Female,51,Neck Pain,Negative,Abnormal,Surgery,0
+197,Female,46,Numbness,Negative,Abnormal,Surgery,1
+198,Female,39,Stiffness,Negative,Abnormal,Surgery,0
+199,Male,43,Stiffness,Positive,Normal,Surgery,1
+200,Male,31,Stiffness,Negative,Abnormal,Surgery,1
+201,Male,69,Neck Pain,Negative,Normal,Physical Therapy,1
+202,Female,54,Neck Pain,Positive,Abnormal,Surgery,1
+203,Male,79,Neck Pain,Negative,Abnormal,Surgery,0
+204,Male,52,Neck Pain,Negative,Normal,Physical Therapy,1
+205,Female,52,Stiffness,Positive,Abnormal,Physical Therapy,0
+206,Male,70,Numbness,Positive,Abnormal,Physical Therapy,0
+207,Female,62,Neck Pain,Positive,Normal,Surgery,0
+208,Female,56,Neck Pain,Negative,Abnormal,Physical Therapy,1
+209,Female,31,Stiffness,Negative,Abnormal,Surgery,0
+210,Male,22,Numbness,Negative,Abnormal,Surgery,0
+211,Male,20,Numbness,Positive,Normal,Physical Therapy,0
+212,Male,52,Stiffness,Positive,Abnormal,Physical Therapy,1
+213,Male,59,Stiffness,Negative,Abnormal,Surgery,1
+214,Male,29,Numbness,Negative,Abnormal,Physical Therapy,0
+215,Male,62,Neck Pain,Positive,Abnormal,Surgery,1
+216,Male,63,Numbness,Positive,Normal,Physical Therapy,1
+217,Female,48,Stiffness,Positive,Normal,Physical Therapy,0
+218,Male,32,Neck Pain,Positive,Abnormal,Physical Therapy,0
+219,Female,31,Neck Pain,Negative,Abnormal,Surgery,1
+220,Male,50,Stiffness,Positive,Normal,Physical Therapy,0
+221,Male,65,Stiffness,Negative,Normal,Surgery,1
+222,Male,21,Stiffness,Negative,Abnormal,Surgery,1
+223,Female,70,Numbness,Negative,Normal,Surgery,1
+224,Female,69,Numbness,Positive,Abnormal,Surgery,1
+225,Female,54,Neck Pain,Positive,Normal,Physical Therapy,1
+226,Female,42,Stiffness,Positive,Normal,Surgery,1
+227,Male,36,Neck Pain,Positive,Normal,Surgery,0
+228,Female,45,Neck Pain,Negative,Normal,Physical Therapy,0
+229,Male,27,Neck Pain,Positive,Abnormal,Surgery,1
+230,Male,48,Neck Pain,Positive,Normal,Physical Therapy,1
+231,Female,45,Stiffness,Negative,Normal,Surgery,1
+232,Female,29,Neck Pain,Positive,Abnormal,Physical Therapy,0
+233,Female,45,Stiffness,Negative,Normal,Surgery,1
+234,Female,53,Stiffness,Negative,Normal,Physical Therapy,0
+235,Female,70,Numbness,Negative,Abnormal,Surgery,1
+236,Female,60,Stiffness,Negative,Normal,Surgery,1
+237,Female,26,Numbness,Negative,Abnormal,Physical Therapy,0
+238,Female,23,Stiffness,Negative,Abnormal,Physical Therapy,0
+239,Male,77,Stiffness,Negative,Abnormal,Physical Therapy,1
+240,Female,72,Stiffness,Negative,Abnormal,Physical Therapy,1
+241,Female,69,Numbness,Positive,Normal,Surgery,1
+242,Male,64,Numbness,Positive,Abnormal,Surgery,0
+243,Female,30,Neck Pain,Positive,Normal,Physical Therapy,0
+244,Male,48,Numbness,Positive,Normal,Surgery,0
+245,Male,75,Numbness,Negative,Normal,Physical Therapy,0
+246,Female,55,Numbness,Positive,Normal,Physical Therapy,0
+247,Male,44,Numbness,Negative,Normal,Surgery,0
+248,Male,40,Neck Pain,Positive,Normal,Surgery,1
+249,Male,76,Numbness,Positive,Normal,Surgery,1
+250,Male,55,Stiffness,Positive,Normal,Surgery,0
+251,Female,29,Stiffness,Negative,Normal,Surgery,1
+252,Male,56,Numbness,Positive,Normal,Surgery,1
+253,Female,28,Numbness,Negative,Abnormal,Surgery,0
+254,Male,43,Stiffness,Negative,Abnormal,Physical Therapy,1
+255,Male,54,Stiffness,Positive,Abnormal,Physical Therapy,0
+256,Male,68,Neck Pain,Positive,Normal,Physical Therapy,0
+257,Male,54,Stiffness,Positive,Abnormal,Physical Therapy,1
+258,Female,67,Stiffness,Negative,Abnormal,Physical Therapy,0
+259,Female,55,Numbness,Positive,Abnormal,Surgery,0
+260,Male,37,Stiffness,Negative,Normal,Physical Therapy,0
+261,Male,68,Neck Pain,Negative,Normal,Physical Therapy,0
+262,Female,58,Stiffness,Positive,Normal,Physical Therapy,0
+263,Male,51,Numbness,Positive,Normal,Physical Therapy,0
+264,Male,43,Numbness,Negative,Abnormal,Physical Therapy,0
+265,Male,42,Stiffness,Negative,Abnormal,Physical Therapy,0
+266,Female,51,Numbness,Negative,Abnormal,Physical Therapy,1
+267,Female,56,Neck Pain,Positive,Abnormal,Surgery,1
+268,Female,31,Neck Pain,Negative,Normal,Surgery,1
+269,Male,68,Stiffness,Positive,Normal,Physical Therapy,0
+270,Male,74,Stiffness,Negative,Normal,Surgery,0
+271,Female,32,Stiffness,Negative,Abnormal,Surgery,1
+272,Female,42,Numbness,Positive,Normal,Surgery,1
+273,Female,44,Neck Pain,Negative,Normal,Surgery,1
+274,Female,54,Neck Pain,Positive,Abnormal,Physical Therapy,0
+275,Male,60,Numbness,Positive,Abnormal,Surgery,1
+276,Female,49,Neck Pain,Negative,Normal,Surgery,1
+277,Male,36,Stiffness,Positive,Normal,Surgery,0
+278,Female,68,Stiffness,Positive,Normal,Physical Therapy,1
+279,Male,39,Stiffness,Negative,Normal,Physical Therapy,0
+280,Female,67,Neck Pain,Positive,Normal,Physical Therapy,0
+281,Female,44,Stiffness,Positive,Normal,Physical Therapy,0
+282,Female,41,Numbness,Positive,Abnormal,Physical Therapy,1
+283,Female,32,Numbness,Negative,Abnormal,Physical Therapy,1
+284,Male,78,Neck Pain,Positive,Abnormal,Physical Therapy,0
+285,Female,38,Numbness,Negative,Normal,Surgery,1
+286,Male,68,Numbness,Negative,Abnormal,Surgery,1
+287,Male,55,Neck Pain,Positive,Normal,Surgery,1
+288,Male,31,Stiffness,Positive,Normal,Physical Therapy,1
+289,Male,60,Stiffness,Positive,Abnormal,Physical Therapy,0
+290,Female,38,Stiffness,Negative,Normal,Physical Therapy,1
+291,Male,31,Neck Pain,Positive,Normal,Physical Therapy,0
+292,Male,28,Numbness,Positive,Abnormal,Physical Therapy,0
+293,Male,26,Stiffness,Positive,Abnormal,Surgery,1
+294,Female,47,Stiffness,Positive,Abnormal,Surgery,0
+295,Female,33,Neck Pain,Positive,Normal,Physical Therapy,1
+296,Female,50,Stiffness,Negative,Abnormal,Physical Therapy,1
+297,Female,71,Neck Pain,Negative,Abnormal,Physical Therapy,0
+298,Male,38,Numbness,Positive,Normal,Physical Therapy,0
+299,Male,77,Neck Pain,Positive,Abnormal,Surgery,0
+300,Female,66,Neck Pain,Positive,Abnormal,Physical Therapy,0
+301,Male,35,Neck Pain,Positive,Abnormal,Physical Therapy,1
+302,Male,72,Neck Pain,Negative,Normal,Physical Therapy,1
+303,Male,24,Numbness,Positive,Normal,Physical Therapy,1
+304,Female,54,Numbness,Negative,Normal,Surgery,0
+305,Female,31,Stiffness,Negative,Normal,Physical Therapy,0
+306,Male,44,Numbness,Positive,Abnormal,Physical Therapy,0
+307,Female,71,Numbness,Negative,Normal,Surgery,1
+308,Female,78,Stiffness,Negative,Normal,Surgery,0
+309,Female,40,Numbness,Negative,Abnormal,Surgery,1
+310,Female,55,Neck Pain,Negative,Abnormal,Physical Therapy,0
+311,Female,72,Neck Pain,Positive,Abnormal,Physical Therapy,1
+312,Male,42,Stiffness,Positive,Normal,Surgery,1
+313,Female,35,Stiffness,Negative,Normal,Surgery,0
+314,Male,76,Stiffness,Positive,Normal,Surgery,0
+315,Male,58,Neck Pain,Positive,Abnormal,Surgery,1
+316,Female,64,Numbness,Positive,Abnormal,Surgery,1
+317,Male,72,Neck Pain,Positive,Normal,Surgery,0
+318,Male,61,Stiffness,Positive,Abnormal,Physical Therapy,0
+319,Male,77,Numbness,Negative,Abnormal,Physical Therapy,1
+320,Female,58,Numbness,Positive,Abnormal,Physical Therapy,0
+321,Female,33,Neck Pain,Positive,Normal,Surgery,1
+322,Male,50,Stiffness,Positive,Abnormal,Surgery,1
+323,Female,77,Neck Pain,Positive,Abnormal,Surgery,0
+324,Female,24,Numbness,Negative,Normal,Surgery,0
+325,Female,54,Neck Pain,Negative,Normal,Surgery,0
+326,Female,42,Neck Pain,Negative,Abnormal,Surgery,0
+327,Male,48,Stiffness,Negative,Abnormal,Physical Therapy,0
+328,Male,62,Stiffness,Positive,Normal,Physical Therapy,1
+329,Female,30,Numbness,Negative,Normal,Surgery,1
+330,Female,37,Neck Pain,Positive,Abnormal,Physical Therapy,0
+331,Male,66,Neck Pain,Positive,Abnormal,Surgery,0
+332,Male,31,Neck Pain,Positive,Abnormal,Physical Therapy,0
+333,Female,28,Numbness,Positive,Abnormal,Surgery,1
+334,Male,29,Numbness,Positive,Normal,Surgery,0
+335,Female,77,Stiffness,Negative,Abnormal,Physical Therapy,0
+336,Female,63,Stiffness,Negative,Abnormal,Physical Therapy,1
+337,Male,36,Stiffness,Negative,Normal,Surgery,1
+338,Male,57,Neck Pain,Negative,Abnormal,Surgery,0
+339,Female,26,Neck Pain,Positive,Normal,Physical Therapy,0
+340,Female,65,Stiffness,Negative,Abnormal,Physical Therapy,0
+341,Male,32,Neck Pain,Positive,Abnormal,Surgery,1
+342,Female,59,Stiffness,Negative,Normal,Physical Therapy,0
+343,Male,61,Numbness,Positive,Normal,Surgery,0
+344,Female,28,Stiffness,Positive,Abnormal,Surgery,0
+345,Male,69,Numbness,Negative,Abnormal,Surgery,1
+346,Male,46,Neck Pain,Positive,Abnormal,Surgery,1
+347,Male,77,Stiffness,Positive,Normal,Physical Therapy,0
+348,Female,21,Neck Pain,Negative,Abnormal,Physical Therapy,0
+349,Female,24,Numbness,Positive,Normal,Physical Therapy,1
+350,Male,48,Numbness,Negative,Normal,Physical Therapy,1
+351,Female,56,Numbness,Negative,Abnormal,Physical Therapy,1
+352,Male,57,Neck Pain,Negative,Normal,Physical Therapy,1
+353,Male,38,Neck Pain,Positive,Abnormal,Physical Therapy,1
+354,Female,27,Neck Pain,Positive,Abnormal,Surgery,1
+355,Female,67,Neck Pain,Positive,Abnormal,Physical Therapy,1
+356,Male,64,Numbness,Negative,Abnormal,Physical Therapy,1
+357,Female,20,Numbness,Positive,Abnormal,Surgery,1
+358,Female,41,Stiffness,Negative,Normal,Physical Therapy,0
+359,Male,71,Stiffness,Negative,Normal,Physical Therapy,0
+360,Male,36,Neck Pain,Positive,Abnormal,Surgery,0
+361,Female,26,Numbness,Negative,Abnormal,Physical Therapy,1
+362,Male,44,Numbness,Positive,Normal,Physical Therapy,0
+363,Male,64,Numbness,Positive,Normal,Physical Therapy,1
+364,Female,23,Stiffness,Positive,Normal,Surgery,1
+365,Male,55,Stiffness,Positive,Normal,Physical Therapy,0
+366,Male,25,Numbness,Positive,Abnormal,Physical Therapy,1
+367,Female,79,Numbness,Negative,Abnormal,Surgery,0
+368,Female,50,Numbness,Negative,Normal,Physical Therapy,0
+369,Male,38,Stiffness,Negative,Abnormal,Surgery,0
+370,Male,63,Numbness,Positive,Normal,Surgery,1
+371,Female,73,Numbness,Positive,Abnormal,Physical Therapy,0
+372,Female,58,Neck Pain,Positive,Normal,Surgery,1
+373,Female,46,Neck Pain,Negative,Abnormal,Surgery,0
+374,Female,29,Stiffness,Positive,Normal,Physical Therapy,0
+375,Male,45,Numbness,Negative,Normal,Surgery,0
+376,Female,38,Numbness,Negative,Abnormal,Surgery,1
+377,Female,58,Neck Pain,Positive,Normal,Physical Therapy,1
+378,Male,22,Stiffness,Positive,Abnormal,Physical Therapy,1
+379,Female,64,Neck Pain,Negative,Abnormal,Physical Therapy,0
+380,Male,32,Neck Pain,Positive,Normal,Surgery,0
+381,Female,69,Neck Pain,Negative,Abnormal,Physical Therapy,1
+382,Female,47,Neck Pain,Positive,Abnormal,Surgery,1
+383,Female,77,Numbness,Positive,Abnormal,Surgery,1
+384,Male,39,Numbness,Negative,Abnormal,Surgery,1
+385,Male,47,Neck Pain,Positive,Abnormal,Surgery,1
+386,Female,27,Stiffness,Negative,Normal,Surgery,1
+387,Male,60,Stiffness,Positive,Abnormal,Surgery,0
+388,Male,58,Stiffness,Negative,Abnormal,Surgery,1
+389,Male,20,Stiffness,Negative,Abnormal,Physical Therapy,0
+390,Male,22,Neck Pain,Positive,Abnormal,Physical Therapy,0
+391,Male,32,Numbness,Negative,Abnormal,Surgery,1
+392,Male,47,Stiffness,Positive,Normal,Surgery,1
+393,Female,76,Neck Pain,Positive,Abnormal,Physical Therapy,0
+394,Female,79,Stiffness,Positive,Normal,Surgery,1
+395,Male,68,Stiffness,Negative,Normal,Physical Therapy,1
+396,Female,44,Neck Pain,Negative,Normal,Physical Therapy,0
+397,Female,75,Numbness,Positive,Normal,Physical Therapy,0
+398,Female,52,Numbness,Positive,Abnormal,Surgery,0
+399,Female,57,Neck Pain,Negative,Normal,Surgery,1
+400,Male,72,Numbness,Positive,Normal,Physical Therapy,0
+401,Female,25,Neck Pain,Positive,Abnormal,Physical Therapy,1
+402,Female,77,Neck Pain,Negative,Abnormal,Physical Therapy,0
+403,Male,63,Neck Pain,Positive,Abnormal,Physical Therapy,0
+404,Male,64,Numbness,Negative,Normal,Physical Therapy,0
+405,Female,51,Neck Pain,Positive,Abnormal,Surgery,1
+406,Female,64,Stiffness,Negative,Abnormal,Physical Therapy,1
+407,Female,66,Numbness,Positive,Normal,Surgery,0
+408,Female,40,Numbness,Positive,Abnormal,Physical Therapy,0
+409,Female,35,Numbness,Negative,Abnormal,Surgery,0
+410,Female,73,Numbness,Positive,Abnormal,Surgery,1
+411,Male,40,Stiffness,Negative,Abnormal,Surgery,0
+412,Female,30,Numbness,Positive,Normal,Surgery,1
+413,Female,79,Numbness,Negative,Abnormal,Surgery,0
+414,Male,56,Neck Pain,Negative,Abnormal,Surgery,0
+415,Male,55,Numbness,Negative,Normal,Physical Therapy,0
+416,Male,54,Stiffness,Negative,Abnormal,Surgery,0
+417,Male,38,Stiffness,Positive,Normal,Physical Therapy,0
+418,Female,39,Stiffness,Positive,Abnormal,Surgery,0
+419,Female,76,Stiffness,Negative,Normal,Surgery,1
+420,Female,37,Numbness,Negative,Normal,Physical Therapy,0
+421,Female,66,Numbness,Negative,Normal,Surgery,1
+422,Female,60,Stiffness,Positive,Normal,Physical Therapy,0
+423,Female,68,Stiffness,Positive,Abnormal,Physical Therapy,0
+424,Male,33,Numbness,Positive,Normal,Physical Therapy,1
+425,Female,34,Stiffness,Positive,Abnormal,Physical Therapy,0
+426,Male,50,Neck Pain,Negative,Normal,Surgery,1
+427,Male,20,Stiffness,Negative,Normal,Surgery,1
+428,Female,72,Stiffness,Negative,Normal,Physical Therapy,0
+429,Male,73,Neck Pain,Positive,Abnormal,Surgery,1
+430,Female,73,Neck Pain,Positive,Normal,Surgery,1
+431,Male,22,Numbness,Positive,Abnormal,Physical Therapy,0
+432,Female,35,Numbness,Negative,Abnormal,Surgery,1
+433,Male,42,Neck Pain,Negative,Abnormal,Physical Therapy,0
+434,Female,76,Neck Pain,Positive,Abnormal,Physical Therapy,0
+435,Female,30,Numbness,Negative,Abnormal,Surgery,0
+436,Female,31,Stiffness,Positive,Abnormal,Surgery,0
+437,Female,29,Neck Pain,Positive,Abnormal,Surgery,1
+438,Female,51,Numbness,Negative,Abnormal,Physical Therapy,0
+439,Male,35,Stiffness,Positive,Abnormal,Physical Therapy,0
+440,Male,27,Neck Pain,Negative,Normal,Surgery,1
+441,Male,57,Stiffness,Positive,Normal,Surgery,0
+442,Female,31,Numbness,Negative,Normal,Surgery,0
+443,Male,43,Neck Pain,Negative,Normal,Surgery,1
+444,Female,47,Stiffness,Negative,Normal,Physical Therapy,1
+445,Female,72,Neck Pain,Positive,Abnormal,Surgery,1
+446,Male,27,Stiffness,Positive,Abnormal,Physical Therapy,1
+447,Male,77,Numbness,Negative,Abnormal,Physical Therapy,1
+448,Female,47,Numbness,Negative,Abnormal,Surgery,1
+449,Male,55,Neck Pain,Positive,Abnormal,Surgery,1
+450,Female,45,Stiffness,Positive,Abnormal,Surgery,0
+451,Female,27,Neck Pain,Positive,Abnormal,Physical Therapy,1
+452,Female,77,Neck Pain,Negative,Normal,Surgery,1
+453,Female,79,Stiffness,Positive,Normal,Surgery,1
+454,Female,69,Stiffness,Positive,Normal,Physical Therapy,0
+455,Male,47,Stiffness,Negative,Normal,Surgery,0
+456,Male,47,Numbness,Positive,Abnormal,Physical Therapy,1
+457,Female,56,Neck Pain,Positive,Abnormal,Surgery,1
+458,Female,60,Neck Pain,Positive,Abnormal,Physical Therapy,1
+459,Male,55,Numbness,Negative,Normal,Surgery,0
+460,Male,46,Stiffness,Negative,Abnormal,Surgery,0
+461,Female,73,Numbness,Negative,Abnormal,Physical Therapy,1
+462,Male,36,Numbness,Negative,Abnormal,Physical Therapy,0
+463,Female,28,Numbness,Negative,Normal,Surgery,1
+464,Male,52,Neck Pain,Negative,Abnormal,Physical Therapy,0
+465,Female,72,Numbness,Negative,Normal,Physical Therapy,0
+466,Male,39,Neck Pain,Positive,Normal,Physical Therapy,1
+467,Female,32,Neck Pain,Positive,Normal,Physical Therapy,1
+468,Male,47,Neck Pain,Negative,Normal,Surgery,1
+469,Male,67,Stiffness,Positive,Abnormal,Surgery,1
+470,Female,48,Neck Pain,Positive,Normal,Physical Therapy,0
+471,Male,32,Neck Pain,Negative,Normal,Physical Therapy,0
+472,Female,65,Stiffness,Positive,Abnormal,Physical Therapy,0
+473,Male,54,Neck Pain,Positive,Abnormal,Physical Therapy,1
+474,Female,25,Numbness,Positive,Normal,Surgery,0
+475,Male,37,Numbness,Positive,Abnormal,Surgery,1
+476,Female,70,Neck Pain,Positive,Normal,Physical Therapy,0
+477,Male,24,Stiffness,Negative,Normal,Physical Therapy,1
+478,Female,66,Numbness,Negative,Normal,Physical Therapy,1
+479,Male,44,Stiffness,Negative,Normal,Surgery,0
+480,Female,21,Stiffness,Positive,Abnormal,Physical Therapy,1
+481,Female,29,Numbness,Negative,Normal,Surgery,1
+482,Female,75,Stiffness,Positive,Abnormal,Physical Therapy,0
+483,Male,49,Numbness,Positive,Abnormal,Surgery,1
+484,Female,69,Stiffness,Positive,Abnormal,Physical Therapy,1
+485,Male,78,Numbness,Positive,Abnormal,Surgery,1
+486,Female,64,Neck Pain,Negative,Normal,Physical Therapy,0
+487,Male,24,Numbness,Negative,Abnormal,Physical Therapy,0
+488,Female,74,Numbness,Positive,Normal,Physical Therapy,1
+489,Male,75,Numbness,Negative,Abnormal,Surgery,0
+490,Male,52,Numbness,Positive,Abnormal,Physical Therapy,1
+491,Female,73,Stiffness,Negative,Normal,Surgery,1
+492,Male,20,Neck Pain,Negative,Normal,Surgery,1
+493,Male,37,Numbness,Positive,Normal,Physical Therapy,1
+494,Female,51,Stiffness,Negative,Abnormal,Physical Therapy,1
+495,Male,66,Neck Pain,Positive,Abnormal,Physical Therapy,0
+496,Male,68,Neck Pain,Negative,Normal,Surgery,1
+497,Male,30,Neck Pain,Positive,Normal,Physical Therapy,0
+498,Female,40,Neck Pain,Positive,Normal,Surgery,0
+499,Male,45,Numbness,Negative,Normal,Surgery,1
+500,Female,44,Numbness,Negative,Abnormal,Physical Therapy,1
